@@ -1,0 +1,19 @@
+{
+  "name": "scribble-ai",
+  "version": "1.0.0",
+  "description": "MS Paint Stick Figure Generator powered by AI",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "keywords": [
+    "ai",
+    "stick-figures",
+    "mspaint"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
